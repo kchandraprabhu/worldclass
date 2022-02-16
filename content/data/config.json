@@ -1,0 +1,103 @@
+{
+    "type": "Config",
+    "favicon": "/images/SEO.gif",
+    "header": {
+        "headerVariant": "variant-c",
+        "isSticky": false,
+        "title": "World Best Solution",
+        "isTitleVisible": true,
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "About",
+                "url": "/info"
+            },
+            {
+                "type": "Link",
+                "label": "Projects",
+                "url": "/projects"
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "url": "/blog"
+            }
+        ],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "altText": "Twitter",
+                "label": "Twitter",
+                "url": "https://twitter.com/KCPrabhudev",
+                "icon": "twitter"
+            },
+            {
+                "type": "Social",
+                "altText": "LinkedIn",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/chandraprabhudevk/",
+                "icon": "github"
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "full",
+                "padding": [
+                    "pt-5",
+                    "pb-5",
+                    "pr-4",
+                    "pl-4"
+                ]
+            }
+        }
+    },
+    "footer": {
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Info",
+                "url": "/info",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Contact",
+                "url": "mailto:thisismyemail.@myemail.me",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "url": "/blog",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "GitHub",
+                "url": "https://github.com/stackbit-themes",
+                "altText": ""
+            }
+        ],
+        "contacts": {
+            "title": "Contact details",
+            "phoneNumber": "807-336-9243",
+            "phoneAltText": "My phone number",
+            "email": "chandraprabhudev91@gmail.com",
+            "emailAltText": "My email",
+            "addressAltText": "My address",
+            "address": "Bengaluru, India"
+        },
+        "copyrightText": "Powered by CPD\n",
+        "styles": {
+            "self": {
+                "width": "narrow",
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
+            }
+        }
+    }
+}
